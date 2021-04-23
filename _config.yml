@@ -1,17 +1,13 @@
 # site settings
 title: Myblog
-subtitle: by HTML5 UP
-email: sorry917089@gmail.com
+subtitle:
+email: sorry9170@naver.com
 description: 안녕하세요. 게임 프로그래머를 목표로 하고 있는 정승원입니다.
 baseurl: "/Myblog/" # the subpath of your site, e.g. /blog
 url: https://madein98.github.io/Myblog/# the base hostname & protocol for your site
 author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+
+phone: (010) 9034-6514
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
@@ -21,15 +17,6 @@ tiles-count: 6
 # see https://fontawesome.com/icons?d=gallery&p=2&s=brands
 # Icons are not shown if value is empty
 # You need to restart jekyll for changes to have an effect
-socials:
-  GitHub: https://github.com/andrewbanchich
-  GitLab:
-  Google-Plus: https://plus.google.com/u/0/+AndrewBanchich
-  Instagram:
-  LinkedIn: https://www.linkedin.com/in/andrew-banchich-a4ba1195
-  Twitter: https://twitter.com/andrewbanchich
-  Facebook:
-  Slack:
 
 # build settings
 markdown: kramdown
